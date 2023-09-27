@@ -1,6 +1,6 @@
 # Olá, sou Germana Maria! 👋🚀
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas e adoro misturar a tecnologia com design. Atualmente, estou imersa no emocionante mundo do desenvolvimento frontend, explorando as maravilhas do HTML, CSS e JavaScript. 💻🎨
+Sou estudante de Análise e Desenvolvimento de Sistemas e adoro misturar a tecnologia com design. Atualmente, estou imersa no emocionante mundo do desenvolvimento frontend, explorando as maravilhas do HTML, CSS e JavaScript. 💻🎨
 
 ## Experiência
 💼 Tenho experiência em Web Design, especialmente com WordPress e Elementor. 
